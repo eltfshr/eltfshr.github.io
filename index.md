@@ -1,4 +1,12 @@
 ## Welcome! My name is Nathee Jaywaree
+
+I am a computer engineer student. I'm interested in networking and cyber security. I am experienced in software development and database researching.
+
+You can contact me at puntf2@gmail.com.
+
+My resume: [here](http://resume.eltfshr.me)
+
+My cv: [here](http://cv.eltfshr.me)
 <!--
 You can use the [editor on GitHub](https://github.com/eltfshr/eltfshr.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
